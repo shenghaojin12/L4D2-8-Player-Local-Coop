@@ -21,6 +21,7 @@ By bilibili_蒜头头头
 
  
 二，	右键l4d2，打开游戏的安装根目录
+
  <img width="478" height="400" alt="image" src="https://github.com/user-attachments/assets/3f5af5fd-3f3f-4190-9529-9dfaa09c6ce9" />
 
 在根目录里打开left4dead2文件夹 
